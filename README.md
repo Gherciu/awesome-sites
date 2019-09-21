@@ -16,6 +16,7 @@ A list of useful and awesome sites 📑😻
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [Icons8](https://icons8.com/icons) - Free vector icons.
+- [iconscout.com](https://iconscout.com/icons) - [:copyright:](https://iconscout.com/licenses) Discover over 2 Million+ Icons from 400+ designers
 #### Skill UP 🚀
 - [Livechatinc](https://www.livechatinc.com/typing-speed-test/#/) - Typing Speed Test
 
